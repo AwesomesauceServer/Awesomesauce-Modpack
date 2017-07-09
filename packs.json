@@ -1,0 +1,16 @@
+﻿[
+  {
+    "name": "1.11.2 Pack-01",
+    "minecraftVersion": "1.11.2",
+    "packNumber": "Pack-01",
+    "modListURL": "https://raw.githubusercontent.com/AwesomesauceServer/Awesomesauce-Modpack/master/1.11.2/Pack-01/modlist.json",
+    "repositoryURL": "https://github.com/AwesomesauceServer/Awesomesauce-Modpack/tree/master/1.11.2/Pack-01"
+  },
+  {
+    "name": "1.12 Pack-01",
+    "minecraftVersion": "1.12",
+    "packNumber": "Pack-01",
+    "modListURL": "https://raw.githubusercontent.com/AwesomesauceServer/Awesomesauce-Modpack/master/1.12/Pack-01/modlist.json",
+    "repositoryURL": "https://github.com/AwesomesauceServer/Awesomesauce-Modpack/tree/master/1.12/Pack-01"
+  }
+]
