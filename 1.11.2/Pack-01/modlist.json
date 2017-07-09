@@ -426,6 +426,20 @@
     "updateMode": "Automatic"
   },
   {
+    "name": "Computality",
+    "id": "2eff1e7d-6384-48f6-ad42-5726d8c9f1a9",
+    "file": "computality-1.11.2-1.82.jar",
+    "side": "Both",
+    "date": "2017-07-08T00:20:12Z",
+    "size": "1.37 MB",
+    "requires": [],
+    "link": "https://minecraft.curseforge.com/projects/computality/files/2447335",
+    "linkDownload": "https://minecraft.curseforge.com/projects/computality/files/2447335/download",
+    "linkFiles": "https://minecraft.curseforge.com/projects/computality/files",
+    "md5": "c83810aaf6cb6381a223598236dfd965",
+    "updateMode": "Automatic"
+  },
+  {
     "name": "ConnectedTexturesMod",
     "id": "24d32c83-8972-46ff-9680-421d37e3b592",
     "file": "CTM-MC1.11.2-0.1.1.6.jar",
