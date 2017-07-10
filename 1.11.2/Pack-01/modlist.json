@@ -245,15 +245,15 @@
   {
     "name": "Blur",
     "id": "30afbe96-20c1-46bb-a260-3500cf6293b8",
-    "file": "Blur-1.0.1-9.jar",
+    "file": "Blur-1.0.3-13.jar",
     "side": "Both",
-    "date": "2017-05-30T05:42:31Z",
-    "size": "15.60 KB",
+    "date": "2017-07-01T15:49:12Z",
+    "size": "15.77 KB",
     "requires": [],
-    "link": "https://minecraft.curseforge.com/projects/blur/files/2426967",
-    "linkDownload": "https://minecraft.curseforge.com/projects/blur/files/2426967/download",
+    "link": "https://minecraft.curseforge.com/projects/blur/files/2444403",
+    "linkDownload": "https://minecraft.curseforge.com/projects/blur/files/2444403/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/blur/files",
-    "md5": "9c4b891af06d294bd2167596a736cc82",
+    "md5": "1e359f2948b68009f0383a3cc43fcbe5",
     "updateMode": "Automatic"
   },
   {
@@ -339,20 +339,20 @@
   {
     "name": "Chisel",
     "id": "0bf75182-5926-4600-89d1-aed2364d0d0f",
-    "file": "Chisel-MC1.11.2-0.0.11.18.jar",
+    "file": "Chisel-MC1.11.2-0.0.12.19.jar",
     "side": "Both",
-    "date": "2017-06-25T02:47:43Z",
-    "size": "16.25 MB",
+    "date": "2017-07-08T19:17:39Z",
+    "size": "16.50 MB",
     "requires": [
       {
         "name": "ConnectedTexturesMod",
         "id": "24d32c83-8972-46ff-9680-421d37e3b592"
       }
     ],
-    "link": "https://minecraft.curseforge.com/projects/chisel/files/2441062",
-    "linkDownload": "https://minecraft.curseforge.com/projects/chisel/files/2441062/download",
+    "link": "https://minecraft.curseforge.com/projects/chisel/files/2447722",
+    "linkDownload": "https://minecraft.curseforge.com/projects/chisel/files/2447722/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/chisel/files",
-    "md5": "0dabde85caba2201306935d55e76b38d",
+    "md5": "25122fb06facadc194240dcf286fadaf",
     "updateMode": "Automatic"
   },
   {
@@ -442,15 +442,15 @@
   {
     "name": "ConnectedTexturesMod",
     "id": "24d32c83-8972-46ff-9680-421d37e3b592",
-    "file": "CTM-MC1.11.2-0.1.1.6.jar",
+    "file": "CTM-MC1.11.2-0.2.0.8.jar",
     "side": "Both",
-    "date": "2017-06-21T01:55:29Z",
-    "size": "132.63 KB",
+    "date": "2017-07-08T18:50:01Z",
+    "size": "136.46 KB",
     "requires": [],
-    "link": "https://minecraft.curseforge.com/projects/ctm/files/2438848",
-    "linkDownload": "https://minecraft.curseforge.com/projects/ctm/files/2438848/download",
+    "link": "https://minecraft.curseforge.com/projects/ctm/files/2447703",
+    "linkDownload": "https://minecraft.curseforge.com/projects/ctm/files/2447703/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/ctm/files",
-    "md5": "22ca4bfef33301e9481de9dec1aceb7a",
+    "md5": "505156dd99966d9b3b58de30c45100e0",
     "updateMode": "Automatic"
   },
   {
@@ -1455,23 +1455,23 @@
   {
     "name": "Silent Lib",
     "id": "5a2db71b-7f18-4f40-822c-1e5e8307cc66",
-    "file": "SilentLib-1.11.2-2.2.5-63.jar",
+    "file": "SilentLib-1.11.2-2.2.6-66.jar",
     "side": "Both",
-    "date": "2017-07-02T00:46:30Z",
-    "size": "203.81 KB",
+    "date": "2017-07-08T19:02:00Z",
+    "size": "205.90 KB",
     "requires": [],
-    "link": "https://minecraft.curseforge.com/projects/silent-lib/files/2444628",
-    "linkDownload": "https://minecraft.curseforge.com/projects/silent-lib/files/2444628/download",
+    "link": "https://minecraft.curseforge.com/projects/silent-lib/files/2447710",
+    "linkDownload": "https://minecraft.curseforge.com/projects/silent-lib/files/2447710/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/silent-lib/files",
-    "md5": "366a1d3b4124be87c9f59630a331fe84",
+    "md5": "a2b19d0ad4fa3f4edaa82b4ec8e838d7",
     "updateMode": "Automatic"
   },
   {
     "name": "Silent's Gems",
     "id": "780d8bfe-0d20-4962-9c33-81f7820f62af",
-    "file": "SilentsGems-1.11.x-2.3.16-186.jar",
+    "file": "SilentsGems-1.12-2.4.2-206.jar",
     "side": "Both",
-    "date": "2017-06-20T20:50:31Z",
+    "date": "2017-07-10T00:23:59Z",
     "size": "2.58 MB",
     "requires": [
       {
@@ -1479,19 +1479,19 @@
         "id": "5a2db71b-7f18-4f40-822c-1e5e8307cc66"
       }
     ],
-    "link": "https://minecraft.curseforge.com/projects/silents-gems/files/2437713",
-    "linkDownload": "https://minecraft.curseforge.com/projects/silents-gems/files/2437713/download",
+    "link": "https://minecraft.curseforge.com/projects/silents-gems/files/2448303",
+    "linkDownload": "https://minecraft.curseforge.com/projects/silents-gems/files/2448303/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/silents-gems/files",
-    "md5": "9de2bb58d579d3c5216af6a7d78191a0",
+    "md5": "65e63874d1c7ea6371d711a8e65c9c2b",
     "updateMode": "Automatic"
   },
   {
     "name": "Silent's Gems: Extra Parts",
     "id": "a83d7f86-0e61-4c65-97ef-803e0b029a8b",
-    "file": "SGExtraParts-1.11.x-1.2.6-21.jar",
+    "file": "SGExtraParts-1.12-1.3.1-25.jar",
     "side": "Both",
-    "date": "2017-06-18T18:54:14Z",
-    "size": "57.11 KB",
+    "date": "2017-07-10T00:26:28Z",
+    "size": "92.46 KB",
     "requires": [
       {
         "name": "Silent Lib",
@@ -1502,10 +1502,10 @@
         "id": "780d8bfe-0d20-4962-9c33-81f7820f62af"
       }
     ],
-    "link": "https://minecraft.curseforge.com/projects/silents-gems-extra-parts/files/2436463",
-    "linkDownload": "https://minecraft.curseforge.com/projects/silents-gems-extra-parts/files/2436463/download",
+    "link": "https://minecraft.curseforge.com/projects/silents-gems-extra-parts/files/2448304",
+    "linkDownload": "https://minecraft.curseforge.com/projects/silents-gems-extra-parts/files/2448304/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/silents-gems-extra-parts/files",
-    "md5": "62970a9a291baf19a45984d97b248e5e",
+    "md5": "79a9873db24705f8e5508f6059677d2a",
     "updateMode": "Automatic"
   },
   {
