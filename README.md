@@ -1,5 +1,5 @@
 # Awesomesauce Modpack
-Information, configs, mods, and lists for the Awesomesauce Modpack.
+Information, configs, mods, server files, and lists for the Awesomesauce Modpack, a semi-private community modpack.
 
 ### Repo directory layout
 MinecraftVersion **/** Pack-Number **/** Files
