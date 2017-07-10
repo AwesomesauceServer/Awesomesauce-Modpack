@@ -1436,7 +1436,7 @@
     "linkDownload": "https://minecraft.curseforge.com/projects/serversync/files/2429164/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/serversync/files",
     "md5": "ff0b482773354b479518c30662e4a8be",
-    "updateMode": "Automatic"
+    "updateMode": "Manual"
   },
   {
     "name": "ShetiPhianCore",
