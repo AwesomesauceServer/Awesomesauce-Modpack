@@ -339,9 +339,9 @@
   {
     "name": "Chisel",
     "id": "0bf75182-5926-4600-89d1-aed2364d0d0f",
-    "file": "Chisel-MC1.11.2-0.0.13.20.jar",
+    "file": "Chisel-MC1.11.2-0.0.13.21.jar",
     "side": "Both",
-    "date": "2017-07-12T01:18:07Z",
+    "date": "2017-07-13T05:42:26Z",
     "size": "16.50 MB",
     "requires": [
       {
@@ -349,10 +349,10 @@
         "id": "24d32c83-8972-46ff-9680-421d37e3b592"
       }
     ],
-    "link": "https://minecraft.curseforge.com/projects/chisel/files/2449383",
-    "linkDownload": "https://minecraft.curseforge.com/projects/chisel/files/2449383/download",
+    "link": "https://minecraft.curseforge.com/projects/chisel/files/2449995",
+    "linkDownload": "https://minecraft.curseforge.com/projects/chisel/files/2449995/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/chisel/files",
-    "md5": "fcf4326d21a4948dca9fdfa9a419fdf7",
+    "md5": "d2684e46acaf734d1c971e2998a7f7b1",
     "updateMode": "Automatic"
   },
   {
@@ -923,15 +923,15 @@
   {
     "name": "Just Enough Items (JEI)",
     "id": "610c07b6-17cb-4d17-af42-961302a2d55d",
-    "file": "jei_1.11.2-4.5.0.291.jar",
+    "file": "jei_1.11.2-4.5.0.292.jar",
     "side": "Both",
-    "date": "2017-07-05T06:31:47Z",
-    "size": "526.11 KB",
+    "date": "2017-07-13T04:21:32Z",
+    "size": "526.16 KB",
     "requires": [],
-    "link": "https://minecraft.curseforge.com/projects/just-enough-items-jei/files/2446125",
-    "linkDownload": "https://minecraft.curseforge.com/projects/just-enough-items-jei/files/2446125/download",
+    "link": "https://minecraft.curseforge.com/projects/just-enough-items-jei/files/2449968",
+    "linkDownload": "https://minecraft.curseforge.com/projects/just-enough-items-jei/files/2449968/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/just-enough-items-jei/files",
-    "md5": "cdbd65c0a4e4839ee75ce26b2797d021",
+    "md5": "2ea26cee502a1d2432e7f7ff4594b830",
     "updateMode": "Automatic"
   },
   {
