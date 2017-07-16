@@ -640,25 +640,6 @@
     "updateMode": "Automatic"
   },
   {
-    "name": "Extreme Reactors",
-    "id": "13e8904a-e94f-42cc-af6e-d915d517271a",
-    "file": "ExtremeReactors-1.11.2-0.4.5.30.jar",
-    "side": "Both",
-    "date": "2017-06-17T18:15:12Z",
-    "size": "1,018.52 KB",
-    "requires": [
-      {
-        "name": "ZeroCore",
-        "id": "d966842a-3caf-4991-a0cc-bf79b38c6d4e"
-      }
-    ],
-    "link": "https://minecraft.curseforge.com/projects/extreme-reactors/files/2435778",
-    "linkDownload": "https://minecraft.curseforge.com/projects/extreme-reactors/files/2435778/download",
-    "linkFiles": "https://minecraft.curseforge.com/projects/extreme-reactors/files",
-    "md5": "ffa86adffaf15b7969be394f04afcfa4",
-    "updateMode": "Automatic"
-  },
-  {
     "name": "Fairy Lights",
     "id": "02e556ea-4271-4301-b593-ef190a314660",
     "file": "fairylights-2.1.0-1.11.2.jar",
