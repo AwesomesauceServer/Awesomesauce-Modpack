@@ -1551,6 +1551,20 @@
     "updateMode": "Automatic"
   },
   {
+    "name": "Snad",
+    "id": "ce13e8e6-f84e-4276-a235-98fa27c990ae",
+    "file": "Snad-1.11.2-1.7.03.26a.jar",
+    "side": "Both",
+    "date": "2017-03-26T01:20:47Z",
+    "size": "19.84 KB",
+    "requires": [],
+    "link": "https://minecraft.curseforge.com/projects/snad/files/2397362",
+    "linkDownload": "https://minecraft.curseforge.com/projects/snad/files/2397362/download",
+    "linkFiles": "https://minecraft.curseforge.com/projects/snad/files",
+    "md5": "f49a2951ad5eabf5e014f1b5382e9655",
+    "updateMode": "Automatic"
+  },
+  {
     "name": "Solar Flux Reborn",
     "id": "2a89753c-f625-46c9-b935-c1ea8bd7ad7b",
     "file": "SolarFluxReborn_1.11.2-2.21r.jar",
