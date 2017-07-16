@@ -339,9 +339,9 @@
   {
     "name": "Chisel",
     "id": "0bf75182-5926-4600-89d1-aed2364d0d0f",
-    "file": "Chisel-MC1.11.2-0.0.13.21.jar",
+    "file": "Chisel-MC1.11.2-0.0.13.22.jar",
     "side": "Both",
-    "date": "2017-07-13T05:42:26Z",
+    "date": "2017-07-16T06:46:45Z",
     "size": "16.50 MB",
     "requires": [
       {
@@ -349,10 +349,10 @@
         "id": "24d32c83-8972-46ff-9680-421d37e3b592"
       }
     ],
-    "link": "https://minecraft.curseforge.com/projects/chisel/files/2449995",
-    "linkDownload": "https://minecraft.curseforge.com/projects/chisel/files/2449995/download",
+    "link": "https://minecraft.curseforge.com/projects/chisel/files/2451405",
+    "linkDownload": "https://minecraft.curseforge.com/projects/chisel/files/2451405/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/chisel/files",
-    "md5": "d2684e46acaf734d1c971e2998a7f7b1",
+    "md5": "222845af26d19446d5aca1c8c31f9e31",
     "updateMode": "Automatic"
   },
   {
@@ -844,10 +844,10 @@
   {
     "name": "Industrial Foregoing",
     "id": "5d75b3ae-eb98-486e-a9e2-60b15f263e96",
-    "file": "industrialforegoing-1.11.2-0.3-16.jar",
+    "file": "industrialforegoing-1.11.2-0.3-17.jar",
     "side": "Both",
-    "date": "2017-07-07T09:00:53Z",
-    "size": "609.92 KB",
+    "date": "2017-07-15T10:58:08Z",
+    "size": "611.42 KB",
     "requires": [
       {
         "name": "TESLA",
@@ -858,10 +858,10 @@
         "id": "92584987-ff78-4ece-943f-c00f0d7f7b99"
       }
     ],
-    "link": "https://minecraft.curseforge.com/projects/industrial-foregoing/files/2447075",
-    "linkDownload": "https://minecraft.curseforge.com/projects/industrial-foregoing/files/2447075/download",
+    "link": "https://minecraft.curseforge.com/projects/industrial-foregoing/files/2450982",
+    "linkDownload": "https://minecraft.curseforge.com/projects/industrial-foregoing/files/2450982/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/industrial-foregoing/files",
-    "md5": "62f4a6ddfc4d1b5a892cd335ef1f20c6",
+    "md5": "4822662de669695309cdb0cbf779d153",
     "updateMode": "Automatic"
   },
   {
@@ -923,15 +923,15 @@
   {
     "name": "Just Enough Items (JEI)",
     "id": "610c07b6-17cb-4d17-af42-961302a2d55d",
-    "file": "jei_1.11.2-4.5.0.292.jar",
+    "file": "jei_1.11.2-4.5.0.293.jar",
     "side": "Both",
-    "date": "2017-07-13T04:21:32Z",
-    "size": "526.16 KB",
+    "date": "2017-07-16T06:41:34Z",
+    "size": "527.66 KB",
     "requires": [],
-    "link": "https://minecraft.curseforge.com/projects/just-enough-items-jei/files/2449968",
-    "linkDownload": "https://minecraft.curseforge.com/projects/just-enough-items-jei/files/2449968/download",
+    "link": "https://minecraft.curseforge.com/projects/just-enough-items-jei/files/2451403",
+    "linkDownload": "https://minecraft.curseforge.com/projects/just-enough-items-jei/files/2451403/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/just-enough-items-jei/files",
-    "md5": "2ea26cee502a1d2432e7f7ff4594b830",
+    "md5": "d75a01878f80483deff02b6925a52099",
     "updateMode": "Automatic"
   },
   {
@@ -1340,15 +1340,15 @@
   {
     "name": "Refined Storage",
     "id": "630e5710-cef0-4370-99c9-073501d285d0",
-    "file": "refinedstorage-1.4.18.jar",
+    "file": "refinedstorage-1.4.20.jar",
     "side": "Both",
-    "date": "2017-06-24T19:52:34Z",
+    "date": "2017-07-15T10:37:15Z",
     "size": "1.56 MB",
     "requires": [],
-    "link": "https://minecraft.curseforge.com/projects/refined-storage/files/2440916",
-    "linkDownload": "https://minecraft.curseforge.com/projects/refined-storage/files/2440916/download",
+    "link": "https://minecraft.curseforge.com/projects/refined-storage/files/2450975",
+    "linkDownload": "https://minecraft.curseforge.com/projects/refined-storage/files/2450975/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/refined-storage/files",
-    "md5": "a6936882c7a24449ab936dbeaaaca923",
+    "md5": "1322e3f8fd96c3cd86d5f792e060f16a",
     "updateMode": "Automatic"
   },
   {
