@@ -70,6 +70,58 @@
     "updateMode": "Automatic"
   },
   {
+    "name": "Aroma1997Core",
+    "id": "7934105e-3a4c-40b0-bee0-a6922392c054",
+    "file": "Aroma1997Core-1.11.2-1.2.0.0.jar",
+    "side": "Both",
+    "date": "2017-04-27T14:39:14Z",
+    "size": "152.70 KB",
+    "requires": [],
+    "link": "https://minecraft.curseforge.com/projects/aroma1997core/files/2412506",
+    "linkDownload": "https://minecraft.curseforge.com/projects/aroma1997core/files/2412506/download",
+    "linkFiles": "https://minecraft.curseforge.com/projects/aroma1997core/files",
+    "md5": "39edcda9ef69d0c6b6baf0ab52802b83",
+    "updateMode": "Automatic"
+  },
+  {
+    "name": "Aroma1997s Dimensional World",
+    "id": "7e09b889-e615-4964-a559-4320eff42bbe",
+    "file": "Aroma1997s-Dimensional-World-1.11.2-1.3.0.0.jar",
+    "side": "Both",
+    "date": "2017-04-27T15:06:32Z",
+    "size": "41.88 KB",
+    "requires": [
+      {
+        "name": "Aroma1997Core",
+        "id": "7934105e-3a4c-40b0-bee0-a6922392c054"
+      }
+    ],
+    "link": "https://minecraft.curseforge.com/projects/aroma1997s-dimensional-world/files/2412522",
+    "linkDownload": "https://minecraft.curseforge.com/projects/aroma1997s-dimensional-world/files/2412522/download",
+    "linkFiles": "https://minecraft.curseforge.com/projects/aroma1997s-dimensional-world/files",
+    "md5": "49ef2585ce0ede6150181dfb9cc31d9f",
+    "updateMode": "Automatic"
+  },
+  {
+    "name": "AromaBackup",
+    "id": "3f9b9ab3-a0db-4222-8d89-855ce38ec920",
+    "file": "AromaBackup-1.11-2.1.0.0.jar",
+    "side": "Both",
+    "date": "2017-04-27T14:51:38Z",
+    "size": "106.65 KB",
+    "requires": [
+      {
+        "name": "Aroma1997Core",
+        "id": "7934105e-3a4c-40b0-bee0-a6922392c054"
+      }
+    ],
+    "link": "https://minecraft.curseforge.com/projects/aromabackup/files/2412514",
+    "linkDownload": "https://minecraft.curseforge.com/projects/aromabackup/files/2412514/download",
+    "linkFiles": "https://minecraft.curseforge.com/projects/aromabackup/files",
+    "md5": "71551c9c5ef859819f58483fd7f155e0",
+    "updateMode": "Automatic"
+  },
+  {
     "name": "Astral Sorcery",
     "id": "7088fb1c-8d47-4587-930d-d2454a2ad7ae",
     "file": "astralsorcery-1.4.5.jar",
