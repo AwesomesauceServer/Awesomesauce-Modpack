@@ -145,20 +145,6 @@
     "updateMode": "Automatic"
   },
   {
-    "name": "Better Foliage",
-    "id": "ade1c28e-d117-4eb9-9db3-d57ab5e2158e",
-    "file": "BetterFoliage-MC1.11.2-2.1.7.jar",
-    "side": "Both",
-    "date": "2017-07-10T15:36:13Z",
-    "size": "4.45 MB",
-    "requires": [],
-    "link": "https://minecraft.curseforge.com/projects/better-foliage/files/2448593",
-    "linkDownload": "https://minecraft.curseforge.com/projects/better-foliage/files/2448593/download",
-    "linkFiles": "https://minecraft.curseforge.com/projects/better-foliage/files",
-    "md5": "a0f0109a36f55f32e4ba2c81650a6065",
-    "updateMode": "Automatic"
-  },
-  {
     "name": "BiblioCraft",
     "id": "2268b137-b5e3-44fa-8d52-c12ff0c10490",
     "file": "BiblioCraft[v2.3.2][MC1.11.2].jar",
