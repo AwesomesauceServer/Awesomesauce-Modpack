@@ -84,6 +84,20 @@
     "updateMode": "Automatic"
   },
   {
+    "name": "Backpacks!",
+    "id": "0fe06b44-09a9-431e-9042-7648a05c56ea",
+    "file": "zz-backpacks 1.11.2 - 3.1.9.jar",
+    "side": "Both",
+    "date": "2017-04-15T21:58:43Z",
+    "size": "1.32 MB",
+    "requires": [],
+    "link": "https://minecraft.curseforge.com/projects/backpacks/files/2407437",
+    "linkDownload": "https://minecraft.curseforge.com/projects/backpacks/files/2407437/download",
+    "linkFiles": "https://minecraft.curseforge.com/projects/backpacks/files",
+    "md5": "dc0a6840ccabb82932d065f961bea238",
+    "updateMode": "Automatic"
+  },
+  {
     "name": "Bad Wither No Cookie - Reloaded",
     "id": "708d65c0-4fb2-4d37-bcab-a11c17b1f3de",
     "file": "bwncrldd-1.0.jar",
