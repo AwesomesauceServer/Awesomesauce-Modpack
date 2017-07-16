@@ -243,20 +243,6 @@
     "updateMode": "Automatic"
   },
   {
-    "name": "Blur",
-    "id": "30afbe96-20c1-46bb-a260-3500cf6293b8",
-    "file": "Blur-1.0.3-13.jar",
-    "side": "Both",
-    "date": "2017-07-01T15:49:12Z",
-    "size": "15.77 KB",
-    "requires": [],
-    "link": "https://minecraft.curseforge.com/projects/blur/files/2444403",
-    "linkDownload": "https://minecraft.curseforge.com/projects/blur/files/2444403/download",
-    "linkFiles": "https://minecraft.curseforge.com/projects/blur/files",
-    "md5": "1e359f2948b68009f0383a3cc43fcbe5",
-    "updateMode": "Automatic"
-  },
-  {
     "name": "Bookshelf",
     "id": "7ae5b3fe-8704-4162-ac34-afb88aae3fb9",
     "file": "Bookshelf-1.11.2-2.0.0.388.jar",
@@ -367,20 +353,6 @@
     "linkDownload": "https://minecraft.curseforge.com/projects/chisels-bits/files/2431883/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/chisels-bits/files",
     "md5": "b9540bf8aa766cf2a4358cda2667e259",
-    "updateMode": "Automatic"
-  },
-  {
-    "name": "Chunk Animator",
-    "id": "d59e081c-8c31-4b81-973e-f4353cb063bf",
-    "file": "ChunkAnimator-MC1.11-1.2.jar",
-    "side": "Both",
-    "date": "2016-11-30T13:13:30Z",
-    "size": "24.76 KB",
-    "requires": [],
-    "link": "https://minecraft.curseforge.com/projects/chunk-animator/files/2350838",
-    "linkDownload": "https://minecraft.curseforge.com/projects/chunk-animator/files/2350838/download",
-    "linkFiles": "https://minecraft.curseforge.com/projects/chunk-animator/files",
-    "md5": "efbf8710e418207b0059b95f7b7326d0",
     "updateMode": "Automatic"
   },
   {
@@ -1016,20 +988,6 @@
     "linkDownload": "https://minecraft.curseforge.com/projects/mcmultipart/files/2441849/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/mcmultipart/files",
     "md5": "24f21ae2acea2268cf0bc73624110ae5",
-    "updateMode": "Automatic"
-  },
-  {
-    "name": "Mo' Bends",
-    "id": "239971ab-f5b2-47f8-a32c-fdeae61b3446",
-    "file": "mobends-0.23.5_for_MC-1.11.2.jar",
-    "side": "Both",
-    "date": "2017-06-23T19:28:23Z",
-    "size": "644.97 KB",
-    "requires": [],
-    "link": "https://minecraft.curseforge.com/projects/mo-bends/files/2440278",
-    "linkDownload": "https://minecraft.curseforge.com/projects/mo-bends/files/2440278/download",
-    "linkFiles": "https://minecraft.curseforge.com/projects/mo-bends/files",
-    "md5": "e60fdf5dc41c61d41ee67bc63a31b2e7",
     "updateMode": "Automatic"
   },
   {
