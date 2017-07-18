@@ -1066,6 +1066,20 @@
     "updateMode": "Automatic"
   },
   {
+    "name": "Nature's Compass",
+    "id": "d35b41db-443a-4b68-a3d3-eed8a04fb872",
+    "file": "NaturesCompass-1.11.2-1.3.1.jar",
+    "side": "Both",
+    "date": "2017-07-17T01:46:18Z",
+    "size": "173.24 KB",
+    "requires": [],
+    "link": "https://minecraft.curseforge.com/projects/natures-compass/files/2451825",
+    "linkDownload": "https://minecraft.curseforge.com/projects/natures-compass/files/2451825/download",
+    "linkFiles": "https://minecraft.curseforge.com/projects/natures-compass/files",
+    "md5": "0246617cd1ed62c691d00c0b53293491",
+    "updateMode": "Automatic"
+  },
+  {
     "name": "Neat",
     "id": "ae176e40-6919-4b3e-b88a-e06ae3ee997c",
     "file": "Neat 1.4-13.jar",
@@ -1138,6 +1152,20 @@
     "linkDownload": "https://minecraft.curseforge.com/projects/openblocks-elevator/files/2427584/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/openblocks-elevator/files",
     "md5": "0404adb50824a722957c465363554c20",
+    "updateMode": "Automatic"
+  },
+  {
+    "name": "Ore Shrubs",
+    "id": "500da277-c004-4c96-befd-3a3d0fae3ab2",
+    "file": "oreshrubs-1.3.4-1.11.2.jar",
+    "side": "Both",
+    "date": "2017-07-12T21:44:35Z",
+    "size": "242.47 KB",
+    "requires": [],
+    "link": "https://minecraft.curseforge.com/projects/ore-shrubs/files/2449825",
+    "linkDownload": "https://minecraft.curseforge.com/projects/ore-shrubs/files/2449825/download",
+    "linkFiles": "https://minecraft.curseforge.com/projects/ore-shrubs/files",
+    "md5": "1ddddee96828400f018f67c6686b3d4f",
     "updateMode": "Automatic"
   },
   {
