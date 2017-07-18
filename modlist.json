@@ -138,15 +138,15 @@
   {
     "name": "Backpacks!",
     "id": "0fe06b44-09a9-431e-9042-7648a05c56ea",
-    "file": "zz-backpacks 1.11.2 - 3.1.9.jar",
+    "file": "zz-backpacks 1.11.2 - 3.2.0.jar",
     "side": "Both",
-    "date": "2017-04-15T21:58:43Z",
+    "date": "2017-07-18T10:10:29Z",
     "size": "1.32 MB",
     "requires": [],
-    "link": "https://minecraft.curseforge.com/projects/backpacks/files/2407437",
-    "linkDownload": "https://minecraft.curseforge.com/projects/backpacks/files/2407437/download",
+    "link": "https://minecraft.curseforge.com/projects/backpacks/files/2452481",
+    "linkDownload": "https://minecraft.curseforge.com/projects/backpacks/files/2452481/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/backpacks/files",
-    "md5": "dc0a6840ccabb82932d065f961bea238",
+    "md5": "43f2425a135d498c29d00a0c42a266b3",
     "updateMode": "Automatic"
   },
   {
@@ -1373,9 +1373,9 @@
   {
     "name": "RFTools",
     "id": "bc34e0a5-7783-4cd9-a80f-e8fc08c74279",
-    "file": "rftools-1.1x-6.10.jar",
+    "file": "rftools-1.1x-6.11.jar",
     "side": "Both",
-    "date": "2017-06-28T11:30:19Z",
+    "date": "2017-07-18T08:13:51Z",
     "size": "2.84 MB",
     "requires": [
       {
@@ -1383,10 +1383,10 @@
         "id": "2e8926ea-ef5e-4091-aa19-05d7d21ae64a"
       }
     ],
-    "link": "https://minecraft.curseforge.com/projects/rftools/files/2442685",
-    "linkDownload": "https://minecraft.curseforge.com/projects/rftools/files/2442685/download",
+    "link": "https://minecraft.curseforge.com/projects/rftools/files/2452439",
+    "linkDownload": "https://minecraft.curseforge.com/projects/rftools/files/2452439/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/rftools/files",
-    "md5": "0862c26bf7bec1329fc29d18379ec266",
+    "md5": "6d86308c1097cddc573cabb7a45b929f",
     "updateMode": "Automatic"
   },
   {
