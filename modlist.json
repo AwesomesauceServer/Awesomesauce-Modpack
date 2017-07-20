@@ -424,15 +424,15 @@
   {
     "name": "CoFH Core",
     "id": "7310d3d1-3934-4143-a16d-56d760433842",
-    "file": "CoFHCore-1.11.2-4.2.6.14-universal.jar",
+    "file": "CoFHCore-1.11.2-4.2.7.15-universal.jar",
     "side": "Both",
-    "date": "2017-07-11T06:34:29Z",
+    "date": "2017-07-19T19:22:41Z",
     "size": "925.75 KB",
     "requires": [],
-    "link": "https://minecraft.curseforge.com/projects/cofhcore/files/2448936",
-    "linkDownload": "https://minecraft.curseforge.com/projects/cofhcore/files/2448936/download",
+    "link": "https://minecraft.curseforge.com/projects/cofhcore/files/2453217",
+    "linkDownload": "https://minecraft.curseforge.com/projects/cofhcore/files/2453217/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/cofhcore/files",
-    "md5": "053c0ce273be3840be9451ed122e4295",
+    "md5": "335d484a3a933b544e4fcab7f70daee9",
     "updateMode": "Automatic"
   },
   {
@@ -849,10 +849,10 @@
   {
     "name": "Industrial Foregoing",
     "id": "5d75b3ae-eb98-486e-a9e2-60b15f263e96",
-    "file": "industrialforegoing-1.11.2-0.3-17.jar",
+    "file": "industrialforegoing-1.11.2-0.3-19.jar",
     "side": "Both",
-    "date": "2017-07-15T10:58:08Z",
-    "size": "611.42 KB",
+    "date": "2017-07-19T20:14:38Z",
+    "size": "611.40 KB",
     "requires": [
       {
         "name": "TESLA",
@@ -863,10 +863,10 @@
         "id": "92584987-ff78-4ece-943f-c00f0d7f7b99"
       }
     ],
-    "link": "https://minecraft.curseforge.com/projects/industrial-foregoing/files/2450982",
-    "linkDownload": "https://minecraft.curseforge.com/projects/industrial-foregoing/files/2450982/download",
+    "link": "https://minecraft.curseforge.com/projects/industrial-foregoing/files/2453253",
+    "linkDownload": "https://minecraft.curseforge.com/projects/industrial-foregoing/files/2453253/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/industrial-foregoing/files",
-    "md5": "4822662de669695309cdb0cbf779d153",
+    "md5": "7b87613a184ba8d635e5972f2d52f428",
     "updateMode": "Automatic"
   },
   {
@@ -1340,9 +1340,9 @@
   {
     "name": "Redstone Arsenal",
     "id": "6fdb66c3-7d2c-41eb-baa7-64c0e410ebc3",
-    "file": "RedstoneArsenal-1.11.2-2.2.5.9-universal.jar",
+    "file": "RedstoneArsenal-1.11.2-2.2.6.10-universal.jar",
     "side": "Both",
-    "date": "2017-07-11T06:38:55Z",
+    "date": "2017-07-19T19:27:41Z",
     "size": "197.36 KB",
     "requires": [
       {
@@ -1350,10 +1350,10 @@
         "id": "7310d3d1-3934-4143-a16d-56d760433842"
       }
     ],
-    "link": "https://minecraft.curseforge.com/projects/redstone-arsenal/files/2448948",
-    "linkDownload": "https://minecraft.curseforge.com/projects/redstone-arsenal/files/2448948/download",
+    "link": "https://minecraft.curseforge.com/projects/redstone-arsenal/files/2453230",
+    "linkDownload": "https://minecraft.curseforge.com/projects/redstone-arsenal/files/2453230/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/redstone-arsenal/files",
-    "md5": "23dbe8754ad9b30ad0c61d1a4b7b7505",
+    "md5": "51a93ea1deab71a04d177fba47c6a759",
     "updateMode": "Automatic"
   },
   {
@@ -1387,9 +1387,9 @@
   {
     "name": "RFTools",
     "id": "bc34e0a5-7783-4cd9-a80f-e8fc08c74279",
-    "file": "rftools-1.1x-6.11.jar",
+    "file": "rftools-1.1x-6.12.jar",
     "side": "Both",
-    "date": "2017-07-18T08:13:51Z",
+    "date": "2017-07-19T08:30:58Z",
     "size": "2.84 MB",
     "requires": [
       {
@@ -1397,10 +1397,10 @@
         "id": "2e8926ea-ef5e-4091-aa19-05d7d21ae64a"
       }
     ],
-    "link": "https://minecraft.curseforge.com/projects/rftools/files/2452439",
-    "linkDownload": "https://minecraft.curseforge.com/projects/rftools/files/2452439/download",
+    "link": "https://minecraft.curseforge.com/projects/rftools/files/2452977",
+    "linkDownload": "https://minecraft.curseforge.com/projects/rftools/files/2452977/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/rftools/files",
-    "md5": "6d86308c1097cddc573cabb7a45b929f",
+    "md5": "ef5a0e65b4220e49739dd47dbccd38d4",
     "updateMode": "Automatic"
   },
   {
@@ -1732,10 +1732,10 @@
   {
     "name": "Thermal Dynamics",
     "id": "1affc691-5068-4fe0-9cc4-1b04b8e193e6",
-    "file": "ThermalDynamics-1.11.2-2.2.5.12-universal.jar",
+    "file": "ThermalDynamics-1.11.2-2.2.6.13-universal.jar",
     "side": "Both",
-    "date": "2017-07-11T17:42:56Z",
-    "size": "684.34 KB",
+    "date": "2017-07-19T19:26:46Z",
+    "size": "684.33 KB",
     "requires": [
       {
         "name": "CodeChicken Lib 1.8.+",
@@ -1750,18 +1750,18 @@
         "id": "f08abd82-dfc8-4845-b789-c63bf9c7a1cc"
       }
     ],
-    "link": "https://minecraft.curseforge.com/projects/thermal-dynamics/files/2449204",
-    "linkDownload": "https://minecraft.curseforge.com/projects/thermal-dynamics/files/2449204/download",
+    "link": "https://minecraft.curseforge.com/projects/thermal-dynamics/files/2453227",
+    "linkDownload": "https://minecraft.curseforge.com/projects/thermal-dynamics/files/2453227/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/thermal-dynamics/files",
-    "md5": "35bcbff0dce937f57f68a6450754ecd5",
+    "md5": "fac0c6a20d6c68c0959994abd5cdf284",
     "updateMode": "Automatic"
   },
   {
     "name": "Thermal Expansion",
     "id": "714b08bf-0ccf-4472-86a0-93cdd9c5a24a",
-    "file": "ThermalExpansion-1.11.2-5.2.5.20-universal.jar",
+    "file": "ThermalExpansion-1.11.2-5.2.6.21-universal.jar",
     "side": "Both",
-    "date": "2017-07-11T17:41:55Z",
+    "date": "2017-07-19T19:25:48Z",
     "size": "1.68 MB",
     "requires": [
       {
@@ -1777,18 +1777,18 @@
         "id": "f08abd82-dfc8-4845-b789-c63bf9c7a1cc"
       }
     ],
-    "link": "https://minecraft.curseforge.com/projects/thermalexpansion/files/2449201",
-    "linkDownload": "https://minecraft.curseforge.com/projects/thermalexpansion/files/2449201/download",
+    "link": "https://minecraft.curseforge.com/projects/thermalexpansion/files/2453224",
+    "linkDownload": "https://minecraft.curseforge.com/projects/thermalexpansion/files/2453224/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/thermalexpansion/files",
-    "md5": "86244f668ec66054ab89c25337441f45",
+    "md5": "d35c56836473e457cff8c16a6e3cecaf",
     "updateMode": "Automatic"
   },
   {
     "name": "Thermal Foundation",
     "id": "f08abd82-dfc8-4845-b789-c63bf9c7a1cc",
-    "file": "ThermalFoundation-1.11.2-2.2.4.15-universal.jar",
+    "file": "ThermalFoundation-1.11.2-2.2.5.16-universal.jar",
     "side": "Both",
-    "date": "2017-07-11T17:40:42Z",
+    "date": "2017-07-19T19:24:29Z",
     "size": "1.78 MB",
     "requires": [
       {
@@ -1796,10 +1796,10 @@
         "id": "7310d3d1-3934-4143-a16d-56d760433842"
       }
     ],
-    "link": "https://minecraft.curseforge.com/projects/thermal-foundation/files/2449198",
-    "linkDownload": "https://minecraft.curseforge.com/projects/thermal-foundation/files/2449198/download",
+    "link": "https://minecraft.curseforge.com/projects/thermal-foundation/files/2453220",
+    "linkDownload": "https://minecraft.curseforge.com/projects/thermal-foundation/files/2453220/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/thermal-foundation/files",
-    "md5": "e8e5ae60924042460a5dfc2d019b2afe",
+    "md5": "8f72fda0e0037ebc9b82c11c540cb787",
     "updateMode": "Automatic"
   },
   {
