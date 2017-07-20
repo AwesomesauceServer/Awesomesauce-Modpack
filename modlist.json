@@ -928,15 +928,15 @@
   {
     "name": "Just Enough Items (JEI)",
     "id": "610c07b6-17cb-4d17-af42-961302a2d55d",
-    "file": "jei_1.11.2-4.5.0.293.jar",
+    "file": "jei_1.11.2-4.5.0.294.jar",
     "side": "Both",
-    "date": "2017-07-16T06:41:34Z",
-    "size": "527.66 KB",
+    "date": "2017-07-20T05:21:34Z",
+    "size": "527.67 KB",
     "requires": [],
-    "link": "https://minecraft.curseforge.com/projects/just-enough-items-jei/files/2451403",
-    "linkDownload": "https://minecraft.curseforge.com/projects/just-enough-items-jei/files/2451403/download",
+    "link": "https://minecraft.curseforge.com/projects/just-enough-items-jei/files/2453428",
+    "linkDownload": "https://minecraft.curseforge.com/projects/just-enough-items-jei/files/2453428/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/just-enough-items-jei/files",
-    "md5": "d75a01878f80483deff02b6925a52099",
+    "md5": "904cf319df5be5a4885b747f23ef1586",
     "updateMode": "Automatic"
   },
   {
@@ -1433,9 +1433,9 @@
   {
     "name": "RFTools Dimensions",
     "id": "ee04dfda-717f-4177-86b3-fc6aea2f9e4b",
-    "file": "rftoolsdim-1.1x-5.02.jar",
+    "file": "rftoolsdim-1.1x-5.04.jar",
     "side": "Both",
-    "date": "2017-06-02T17:58:54Z",
+    "date": "2017-07-20T06:28:44Z",
     "size": "1.56 MB",
     "requires": [
       {
@@ -1451,10 +1451,10 @@
         "id": "bc34e0a5-7783-4cd9-a80f-e8fc08c74279"
       }
     ],
-    "link": "https://minecraft.curseforge.com/projects/rftools-dimensions/files/2428401",
-    "linkDownload": "https://minecraft.curseforge.com/projects/rftools-dimensions/files/2428401/download",
+    "link": "https://minecraft.curseforge.com/projects/rftools-dimensions/files/2453445",
+    "linkDownload": "https://minecraft.curseforge.com/projects/rftools-dimensions/files/2453445/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/rftools-dimensions/files",
-    "md5": "ba5731b92c179baecc600877976130ab",
+    "md5": "73fdc564da65166a63aee312eb5b4778",
     "updateMode": "Automatic"
   },
   {
