@@ -1066,6 +1066,20 @@
     "updateMode": "Automatic"
   },
   {
+    "name": "Mystical Agriculture",
+    "id": "7b0d4ec7-2544-4708-855e-72b1e32c874b",
+    "file": "mysticalagriculture[1.11.2]-1.5.7a.jar",
+    "side": "Both",
+    "date": "2017-07-07T20:12:45Z",
+    "size": "1.21 MB",
+    "requires": [],
+    "link": "https://minecraft.curseforge.com/projects/mystical-agriculture/files/2447260",
+    "linkDownload": "https://minecraft.curseforge.com/projects/mystical-agriculture/files/2447260/download",
+    "linkFiles": "https://minecraft.curseforge.com/projects/mystical-agriculture/files",
+    "md5": "a3ff2b72015990bc90ce5dff1e736388",
+    "updateMode": "Automatic"
+  },
+  {
     "name": "Nature's Compass",
     "id": "d35b41db-443a-4b68-a3d3-eed8a04fb872",
     "file": "NaturesCompass-1.11.2-1.3.1.jar",
