@@ -506,6 +506,20 @@
     "updateMode": "Automatic"
   },
   {
+    "name": "Custom Starter Gear",
+    "id": "16630354-93d4-4f1c-8e8a-c9c8fe4ee1e0",
+    "file": "CustomStartingGear-1.11.2-2.0.0.7-universal.jar",
+    "side": "Both",
+    "date": "2017-05-20T10:30:39Z",
+    "size": "17.55 KB",
+    "requires": [],
+    "link": "https://minecraft.curseforge.com/projects/custom-starter-gear/files/2422194",
+    "linkDownload": "https://minecraft.curseforge.com/projects/custom-starter-gear/files/2422194/download",
+    "linkFiles": "https://minecraft.curseforge.com/projects/custom-starter-gear/files",
+    "md5": "2955858f1d6b24fca037ff4fd42f2cc4",
+    "updateMode": "Automatic"
+  },
+  {
     "name": "Deep Resonance",
     "id": "fec0fcde-a2df-42d6-b395-388ca9d01ef5",
     "file": "deepresonance-1.1x-1.4.8.jar",
@@ -974,6 +988,20 @@
     "linkDownload": "https://minecraft.curseforge.com/projects/limelib/files/2406435/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/limelib/files",
     "md5": "00e0081e53dd6e42fb58d31429f791f1",
+    "updateMode": "Automatic"
+  },
+  {
+    "name": "Login Shield",
+    "id": "808383e0-cf91-4b50-99d0-3e5b888f65df",
+    "file": "Login_Shield-1.11.2-3-g17b671c.jar",
+    "side": "Both",
+    "date": "2017-07-12T15:03:01Z",
+    "size": "15.74 KB",
+    "requires": [],
+    "link": "https://minecraft.curseforge.com/projects/login-shield/files/2449657",
+    "linkDownload": "https://minecraft.curseforge.com/projects/login-shield/files/2449657/download",
+    "linkFiles": "https://minecraft.curseforge.com/projects/login-shield/files",
+    "md5": "ab854670c9f50a874ac2d7879ca96133",
     "updateMode": "Automatic"
   },
   {
@@ -1875,6 +1903,20 @@
     "linkDownload": "https://minecraft.curseforge.com/projects/useful-nullifiers/files/2440794/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/useful-nullifiers/files",
     "md5": "eacae7e43699febf5df9526765cda2fe",
+    "updateMode": "Automatic"
+  },
+  {
+    "name": "Visible Armor Slots",
+    "id": "9888603e-09e7-4d4f-a01d-0226ab4b4609",
+    "file": "VisibleArmorSlots[1.11.2]-3.1.1.jar",
+    "side": "Both",
+    "date": "2017-02-21T23:11:29Z",
+    "size": "60.46 KB",
+    "requires": [],
+    "link": "https://minecraft.curseforge.com/projects/visible-armor-slots/files/2384852",
+    "linkDownload": "https://minecraft.curseforge.com/projects/visible-armor-slots/files/2384852/download",
+    "linkFiles": "https://minecraft.curseforge.com/projects/visible-armor-slots/files",
+    "md5": "6d5741e400b7b286aca889d45728b8bd",
     "updateMode": "Automatic"
   },
   {
