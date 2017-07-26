@@ -50,16 +50,6 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>minecraft:chainmail_chestplate</itemStack>
-			<oreDict>gemDiamond</oreDict>
-			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
-		</input>
-		<output>
-			<itemStack>minecraft:chainmail_chestplate</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
 			<itemStack>draconicevolution:draconic_boots</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -69,30 +59,30 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>silentgems:chestplate</itemStack>
+			<itemStack>mysticalagriculture:supremium_leggings</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:supremium_leggings</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:supremium_chestplate_strength</itemStack>
 			<oreDict>gemDiamond</oreDict>
 			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
 		</input>
 		<output>
-			<itemStack>silentgems:chestplate</itemStack>
+			<itemStack>mysticalagriculture:supremium_chestplate_strength</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>techreborn:bronzeleggings</itemStack>
+			<itemStack>mysticalagriculture:supremium_helmet_antivenom</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
 		<output>
-			<itemStack>techreborn:bronzeleggings</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>minecraft:golden_leggings</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>minecraft:golden_leggings</itemStack>
+			<itemStack>mysticalagriculture:supremium_helmet_antivenom</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -106,15 +96,6 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>thermalfoundation:armor.legs_aluminum</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:armor.legs_aluminum</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
 			<itemStack>draconicevolution:draconic_helm</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -124,12 +105,12 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>techreborn:bronzechestplate</itemStack>
+			<itemStack>mysticalagriculture:supremium_chestplate</itemStack>
 			<oreDict>gemDiamond</oreDict>
 			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
 		</input>
 		<output>
-			<itemStack>techreborn:bronzechestplate</itemStack>
+			<itemStack>mysticalagriculture:supremium_chestplate</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -143,20 +124,39 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>randomthings:magichood</itemStack>
+			<itemStack>harvestcraft:hardenedleatherbootsitem</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
 		<output>
-			<itemStack>randomthings:magichood</itemStack>
+			<itemStack>harvestcraft:hardenedleatherbootsitem</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>harvestcraft:hardenedleatherbootsitem</itemStack>
+			<itemStack>mysticalagriculture:intermedium_boots</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
 		<output>
-			<itemStack>harvestcraft:hardenedleatherbootsitem</itemStack>
+			<itemStack>mysticalagriculture:intermedium_boots</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:superium_chestplate</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:superium_chestplate</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:supremium_helmet_nightvision</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:supremium_helmet_nightvision</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -189,21 +189,11 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>thermalfoundation:armor.plate_steel</itemStack>
-			<oreDict>gemDiamond</oreDict>
-			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:armor.plate_steel</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>techreborn:peridothelmet</itemStack>
+			<itemStack>mysticalagriculture:supremium_leggings_antivenom</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
 		<output>
-			<itemStack>techreborn:peridothelmet</itemStack>
+			<itemStack>mysticalagriculture:supremium_leggings_antivenom</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -217,12 +207,11 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>minecraft:golden_chestplate</itemStack>
+			<itemStack>mysticalagriculture:supremium_helmet_fire</itemStack>
 			<oreDict>gemDiamond</oreDict>
-			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
 		</input>
 		<output>
-			<itemStack>minecraft:golden_chestplate</itemStack>
+			<itemStack>mysticalagriculture:supremium_helmet_fire</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -232,6 +221,16 @@
 		</input>
 		<output>
 			<itemStack>thermalfoundation:armor.legs_silver</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:inferium_chestplate</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:inferium_chestplate</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -265,6 +264,15 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>mysticalagriculture:supremium_leggings_fire</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:supremium_leggings_fire</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>draconicevolution:wyvern_helm</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -284,21 +292,11 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>thermalfoundation:armor.plate_constantan</itemStack>
-			<oreDict>gemDiamond</oreDict>
-			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:armor.plate_constantan</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>harvestcraft:hardenedleatherhelmitem</itemStack>
+			<itemStack>mysticalagriculture:supremium_leggings_absorption</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
 		<output>
-			<itemStack>harvestcraft:hardenedleatherhelmitem</itemStack>
+			<itemStack>mysticalagriculture:supremium_leggings_absorption</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -336,24 +334,6 @@
 		</input>
 		<output>
 			<itemStack>techreborn:peridotleggings</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>minecraft:diamond_helmet</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>minecraft:diamond_helmet</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>thermalfoundation:armor.boots_copper</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:armor.boots_copper</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -404,15 +384,6 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>deepresonance:helmet</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>deepresonance:helmet</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
 			<itemStack>thermalfoundation:armor.helmet_invar</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -440,38 +411,11 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>thermalfoundation:armor.legs_bronze</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:armor.legs_bronze</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
 			<itemStack>thermalfoundation:armor.helmet_lead</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
 		<output>
 			<itemStack>thermalfoundation:armor.helmet_lead</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>thermalfoundation:armor.helmet_silver</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:armor.helmet_silver</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>silentgems:helmet</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>silentgems:helmet</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -494,15 +438,6 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>tp:flint_boots</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>tp:flint_boots</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
 			<itemStack>bibliocraft:biblioglasses</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -521,6 +456,746 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>techreborn:rubyleggings</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>techreborn:rubyleggings</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>minecraft:leather_leggings</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>minecraft:leather_leggings</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.legs_lead</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.legs_lead</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.boots_steel</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.boots_steel</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:supremium_helmet_absorption</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:supremium_helmet_absorption</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.legs_invar</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.legs_invar</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:supremium_chestplate_resistance</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:supremium_chestplate_resistance</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.helmet_tin</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.helmet_tin</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:supremium_leggings_wither</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:supremium_leggings_wither</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.plate_platinum</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.plate_platinum</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.plate_lead</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.plate_lead</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.boots_lead</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.boots_lead</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:inferium_boots</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:inferium_boots</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>techreborn:bronzehelmet</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>techreborn:bronzehelmet</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>techreborn:bronzeboots</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>techreborn:bronzeboots</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.legs_copper</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.legs_copper</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>minecraft:iron_helmet</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>minecraft:iron_helmet</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.helmet_bronze</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.helmet_bronze</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>randomthings:lavawader</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>randomthings:lavawader</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>minecraft:iron_chestplate</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>minecraft:iron_chestplate</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.legs_tin</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.legs_tin</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:supremium_helmet_wither</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:supremium_helmet_wither</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.plate_aluminum</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.plate_aluminum</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:prudentium_helmet</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:prudentium_helmet</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.plate_tin</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.plate_tin</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.plate_bronze</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.plate_bronze</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>tp:bone_leggings</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>tp:bone_leggings</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.boots_electrum</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.boots_electrum</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>techreborn:sapphirehelmet</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>techreborn:sapphirehelmet</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>immersiveengineering:powerpack</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>immersiveengineering:powerpack</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.boots_invar</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.boots_invar</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.helmet_electrum</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.helmet_electrum</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:supremium_chestplate_antivenom</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:supremium_chestplate_antivenom</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>randomthings:waterwalkingboots</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>randomthings:waterwalkingboots</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:supremium_leggings_speed</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:supremium_leggings_speed</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>immersiveengineering:faraday_suit_chest</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>immersiveengineering:faraday_suit_chest</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:supremium_leggings_resistance</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:supremium_leggings_resistance</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>minecraft:diamond_boots</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>minecraft:diamond_boots</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:intermedium_chestplate</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:intermedium_chestplate</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>harvestcraft:hardenedleatherleggingsitem</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>harvestcraft:hardenedleatherleggingsitem</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>tp:flint_helmet</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>tp:flint_helmet</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.boots_silver</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.boots_silver</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:inferium_leggings</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:inferium_leggings</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>minecraft:leather_chestplate</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>minecraft:leather_chestplate</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>immersiveengineering:faraday_suit_head</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>immersiveengineering:faraday_suit_head</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>tp:wooden_leggings</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>tp:wooden_leggings</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>deepresonance:chest</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>deepresonance:chest</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>draconicevolution:wyvern_chest</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>draconicevolution:wyvern_chest</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.legs_platinum</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.legs_platinum</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:supremium_boots_wither</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:supremium_boots_wither</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>immersiveengineering:faraday_suit_legs</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>immersiveengineering:faraday_suit_legs</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>minecraft:golden_helmet</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>minecraft:golden_helmet</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:superium_helmet</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:superium_helmet</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>tp:flint_leggings</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>tp:flint_leggings</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>minecraft:chainmail_chestplate</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>minecraft:chainmail_chestplate</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>silentgems:chestplate</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>silentgems:chestplate</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>techreborn:bronzeleggings</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>techreborn:bronzeleggings</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:intermedium_helmet</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:intermedium_helmet</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>minecraft:golden_leggings</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>minecraft:golden_leggings</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.legs_aluminum</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.legs_aluminum</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>techreborn:bronzechestplate</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>techreborn:bronzechestplate</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>randomthings:magichood</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>randomthings:magichood</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:supremium_helmet_resistance</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:supremium_helmet_resistance</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:prudentium_leggings</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:prudentium_leggings</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:supremium_boots_antivenom</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:supremium_boots_antivenom</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.plate_steel</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.plate_steel</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>techreborn:peridothelmet</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>techreborn:peridothelmet</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>minecraft:golden_chestplate</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>minecraft:golden_chestplate</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.plate_constantan</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.plate_constantan</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>harvestcraft:hardenedleatherhelmitem</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>harvestcraft:hardenedleatherhelmitem</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>minecraft:diamond_helmet</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>minecraft:diamond_helmet</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.boots_copper</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.boots_copper</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:supremium_boots_absorption</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:supremium_boots_absorption</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>deepresonance:helmet</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>deepresonance:helmet</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:superium_leggings</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:superium_leggings</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.legs_bronze</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.legs_bronze</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.helmet_silver</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.helmet_silver</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>silentgems:helmet</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>silentgems:helmet</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:supremium_boots_jump</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:supremium_boots_jump</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>tp:flint_boots</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>tp:flint_boots</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>draconicevolution:draconic_chest</itemStack>
 			<oreDict>gemDiamond</oreDict>
 			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
@@ -531,11 +1206,11 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>techreborn:rubyleggings</itemStack>
+			<itemStack>mysticalagriculture:supremium_helmet</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
 		<output>
-			<itemStack>techreborn:rubyleggings</itemStack>
+			<itemStack>mysticalagriculture:supremium_helmet</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -546,15 +1221,6 @@
 		</input>
 		<output>
 			<itemStack>techreborn:peridotchestplate</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>minecraft:leather_leggings</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>minecraft:leather_leggings</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -616,24 +1282,6 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>thermalfoundation:armor.legs_lead</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:armor.legs_lead</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>thermalfoundation:armor.boots_steel</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:armor.boots_steel</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
 			<itemStack>techreborn:sapphireleggings</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -648,24 +1296,6 @@
 		</input>
 		<output>
 			<itemStack>minecraft:leather_boots</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>thermalfoundation:armor.legs_invar</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:armor.legs_invar</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>thermalfoundation:armor.helmet_tin</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:armor.helmet_tin</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -689,26 +1319,6 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>thermalfoundation:armor.plate_platinum</itemStack>
-			<oreDict>gemDiamond</oreDict>
-			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:armor.plate_platinum</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>thermalfoundation:armor.plate_lead</itemStack>
-			<oreDict>gemDiamond</oreDict>
-			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:armor.plate_lead</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
 			<itemStack>thermalfoundation:armor.helmet_nickel</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -727,47 +1337,30 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>thermalfoundation:armor.boots_lead</itemStack>
+			<itemStack>mysticalagriculture:prudentium_chestplate</itemStack>
 			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
 		</input>
 		<output>
-			<itemStack>thermalfoundation:armor.boots_lead</itemStack>
+			<itemStack>mysticalagriculture:prudentium_chestplate</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>techreborn:bronzehelmet</itemStack>
+			<itemStack>mysticalagriculture:superium_boots</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
 		<output>
-			<itemStack>techreborn:bronzehelmet</itemStack>
+			<itemStack>mysticalagriculture:superium_boots</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>techreborn:bronzeboots</itemStack>
+			<itemStack>mysticalagriculture:supremium_boots_fire</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
 		<output>
-			<itemStack>techreborn:bronzeboots</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>thermalfoundation:armor.legs_copper</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:armor.legs_copper</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>minecraft:iron_helmet</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>minecraft:iron_helmet</itemStack>
+			<itemStack>mysticalagriculture:supremium_boots_fire</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -791,15 +1384,6 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>thermalfoundation:armor.helmet_bronze</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:armor.helmet_bronze</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
 			<itemStack>draconicevolution:draconic_legs</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -809,39 +1393,11 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>randomthings:lavawader</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>randomthings:lavawader</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>minecraft:iron_chestplate</itemStack>
-			<oreDict>gemDiamond</oreDict>
-			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
-		</input>
-		<output>
-			<itemStack>minecraft:iron_chestplate</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
 			<itemStack>redstonearsenal:armor.helmet_flux</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
 		<output>
 			<itemStack>redstonearsenal:armor.helmet_flux</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>thermalfoundation:armor.legs_tin</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:armor.legs_tin</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -882,31 +1438,11 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>thermalfoundation:armor.plate_aluminum</itemStack>
-			<oreDict>gemDiamond</oreDict>
-			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:armor.plate_aluminum</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
 			<itemStack>tp:stone_boots</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
 		<output>
 			<itemStack>tp:stone_boots</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>thermalfoundation:armor.plate_tin</itemStack>
-			<oreDict>gemDiamond</oreDict>
-			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:armor.plate_tin</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -920,12 +1456,21 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>thermalfoundation:armor.plate_bronze</itemStack>
+			<itemStack>mysticalagriculture:supremium_chestplate_fire</itemStack>
 			<oreDict>gemDiamond</oreDict>
 			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
 		</input>
 		<output>
-			<itemStack>thermalfoundation:armor.plate_bronze</itemStack>
+			<itemStack>mysticalagriculture:supremium_chestplate_fire</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>mysticalagriculture:prudentium_boots</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>mysticalagriculture:prudentium_boots</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -935,15 +1480,6 @@
 		</input>
 		<output>
 			<itemStack>redstonearsenal:armor.legs_flux</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>tp:bone_leggings</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>tp:bone_leggings</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -963,15 +1499,6 @@
 		</input>
 		<output>
 			<itemStack>harvestcraft:hardenedleatherchestitem</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>thermalfoundation:armor.boots_electrum</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:armor.boots_electrum</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -1004,25 +1531,6 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>techreborn:sapphirehelmet</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>techreborn:sapphirehelmet</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>immersiveengineering:powerpack</itemStack>
-			<oreDict>gemDiamond</oreDict>
-			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
-		</input>
-		<output>
-			<itemStack>immersiveengineering:powerpack</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
 			<itemStack>redstonearsenal:armor.boots_flux</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -1041,15 +1549,6 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>thermalfoundation:armor.boots_invar</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:armor.boots_invar</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
 			<itemStack>tp:wooden_helmet</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -1059,11 +1558,11 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>thermalfoundation:armor.helmet_electrum</itemStack>
+			<itemStack>mysticalagriculture:inferium_helmet</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
 		<output>
-			<itemStack>thermalfoundation:armor.helmet_electrum</itemStack>
+			<itemStack>mysticalagriculture:inferium_helmet</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -1095,20 +1594,21 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>randomthings:waterwalkingboots</itemStack>
+			<itemStack>tp:bone_boots</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
 		<output>
-			<itemStack>randomthings:waterwalkingboots</itemStack>
+			<itemStack>tp:bone_boots</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>tp:bone_boots</itemStack>
+			<itemStack>mysticalagriculture:supremium_chestplate_wither</itemStack>
 			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
 		</input>
 		<output>
-			<itemStack>tp:bone_boots</itemStack>
+			<itemStack>mysticalagriculture:supremium_chestplate_wither</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -1122,39 +1622,12 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>immersiveengineering:faraday_suit_chest</itemStack>
+			<itemStack>mysticalagriculture:supremium_chestplate_absorption</itemStack>
 			<oreDict>gemDiamond</oreDict>
 			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
 		</input>
 		<output>
-			<itemStack>immersiveengineering:faraday_suit_chest</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>minecraft:diamond_boots</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>minecraft:diamond_boots</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>harvestcraft:hardenedleatherleggingsitem</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>harvestcraft:hardenedleatherleggingsitem</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>tp:flint_helmet</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>tp:flint_helmet</itemStack>
+			<itemStack>mysticalagriculture:supremium_chestplate_absorption</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -1165,43 +1638,6 @@
 		</input>
 		<output>
 			<itemStack>thermalfoundation:armor.plate_copper</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>thermalfoundation:armor.boots_silver</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:armor.boots_silver</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>minecraft:leather_chestplate</itemStack>
-			<oreDict>gemDiamond</oreDict>
-			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
-		</input>
-		<output>
-			<itemStack>minecraft:leather_chestplate</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>immersiveengineering:faraday_suit_head</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>immersiveengineering:faraday_suit_head</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>tp:wooden_leggings</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>tp:wooden_leggings</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -1243,22 +1679,11 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>deepresonance:chest</itemStack>
+			<itemStack>mysticalagriculture:supremium_boots</itemStack>
 			<oreDict>gemDiamond</oreDict>
-			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
 		</input>
 		<output>
-			<itemStack>deepresonance:chest</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>draconicevolution:wyvern_chest</itemStack>
-			<oreDict>gemDiamond</oreDict>
-			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
-		</input>
-		<output>
-			<itemStack>draconicevolution:wyvern_chest</itemStack>
+			<itemStack>mysticalagriculture:supremium_boots</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -1268,15 +1693,6 @@
 		</input>
 		<output>
 			<itemStack>thermalfoundation:armor.helmet_aluminum</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>thermalfoundation:armor.legs_platinum</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>thermalfoundation:armor.legs_platinum</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -1291,29 +1707,20 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>immersiveengineering:faraday_suit_legs</itemStack>
+			<itemStack>mysticalagriculture:supremium_boots_resistance</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
 		<output>
-			<itemStack>immersiveengineering:faraday_suit_legs</itemStack>
+			<itemStack>mysticalagriculture:supremium_boots_resistance</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
-			<itemStack>minecraft:golden_helmet</itemStack>
+			<itemStack>mysticalagriculture:intermedium_leggings</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
 		<output>
-			<itemStack>minecraft:golden_helmet</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="100" power ="10">
-		<input>
-			<itemStack>tp:flint_leggings</itemStack>
-			<oreDict>gemDiamond</oreDict>
-		</input>
-		<output>
-			<itemStack>tp:flint_leggings</itemStack>
+			<itemStack>mysticalagriculture:intermedium_leggings</itemStack>
 		</output>
 	</Recipe>
 </Recipes>
