@@ -213,15 +213,15 @@
   {
     "name": "BiblioCraft",
     "id": "2268b137-b5e3-44fa-8d52-c12ff0c10490",
-    "file": "BiblioCraft[v2.3.2][MC1.11.2].jar",
+    "file": "BiblioCraft[v2.3.3][MC1.11.2].jar",
     "side": "Both",
-    "date": "2017-06-08T00:29:41Z",
-    "size": "4.79 MB",
+    "date": "2017-07-25T23:36:06Z",
+    "size": "4.80 MB",
     "requires": [],
-    "link": "https://minecraft.curseforge.com/projects/bibliocraft/files/2430777",
-    "linkDownload": "https://minecraft.curseforge.com/projects/bibliocraft/files/2430777/download",
+    "link": "https://minecraft.curseforge.com/projects/bibliocraft/files/2456044",
+    "linkDownload": "https://minecraft.curseforge.com/projects/bibliocraft/files/2456044/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/bibliocraft/files",
-    "md5": "eb974b15758ff9fe53b769d8313a01e0",
+    "md5": "c634171c6919fbac4e9b68432e0358dd",
     "updateMode": "Automatic"
   },
   {
@@ -344,15 +344,15 @@
   {
     "name": "Chest Transporter",
     "id": "85ec841a-56fa-4d76-ba98-c74ae8a5e534",
-    "file": "ChestTransporter-1.11.2-2.7.9.jar",
+    "file": "ChestTransporter-1.11.2-2.7.11.jar",
     "side": "Both",
-    "date": "2017-05-06T09:51:13Z",
-    "size": "130.51 KB",
+    "date": "2017-07-23T11:38:52Z",
+    "size": "303.87 KB",
     "requires": [],
-    "link": "https://minecraft.curseforge.com/projects/chest-transporter/files/2416498",
-    "linkDownload": "https://minecraft.curseforge.com/projects/chest-transporter/files/2416498/download",
+    "link": "https://minecraft.curseforge.com/projects/chest-transporter/files/2454926",
+    "linkDownload": "https://minecraft.curseforge.com/projects/chest-transporter/files/2454926/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/chest-transporter/files",
-    "md5": "222e875920c2d40ad4219fdd6e31de62",
+    "md5": "beea7602cbf0be05eeb40d7b4d6a3a10",
     "updateMode": "Automatic"
   },
   {
@@ -396,15 +396,15 @@
   {
     "name": "Chisels & Bits",
     "id": "ade06714-c831-4ddc-a9ee-e98e3a4e3dea",
-    "file": "chiselsandbits-13.11.jar",
+    "file": "chiselsandbits-13.12.jar",
     "side": "Both",
-    "date": "2017-06-10T20:03:52Z",
-    "size": "652.35 KB",
+    "date": "2017-07-22T06:05:13Z",
+    "size": "653.29 KB",
     "requires": [],
-    "link": "https://minecraft.curseforge.com/projects/chisels-bits/files/2431883",
-    "linkDownload": "https://minecraft.curseforge.com/projects/chisels-bits/files/2431883/download",
+    "link": "https://minecraft.curseforge.com/projects/chisels-bits/files/2454306",
+    "linkDownload": "https://minecraft.curseforge.com/projects/chisels-bits/files/2454306/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/chisels-bits/files",
-    "md5": "b9540bf8aa766cf2a4358cda2667e259",
+    "md5": "87fa0c9bff5c49b890c5173a6c40bff9",
     "updateMode": "Automatic"
   },
   {
@@ -675,15 +675,15 @@
   {
     "name": "Extra Utilities",
     "id": "b26fb495-36dc-4b23-ab78-55c96f639b0a",
-    "file": "extrautils2-1.11.2-1.5.jar",
+    "file": "extrautils2-1.11.2-1.5.1.jar",
     "side": "Both",
-    "date": "2017-07-10T07:45:33Z",
+    "date": "2017-07-21T17:02:16Z",
     "size": "2.60 MB",
     "requires": [],
-    "link": "https://minecraft.curseforge.com/projects/extra-utilities/files/2448423",
-    "linkDownload": "https://minecraft.curseforge.com/projects/extra-utilities/files/2448423/download",
+    "link": "https://minecraft.curseforge.com/projects/extra-utilities/files/2454026",
+    "linkDownload": "https://minecraft.curseforge.com/projects/extra-utilities/files/2454026/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/extra-utilities/files",
-    "md5": "c7ae69e73ff539eeff7b9d35de4f6ff3",
+    "md5": "ad8264220b54d2d172f98056002d948d",
     "updateMode": "Automatic"
   },
   {
@@ -825,20 +825,20 @@
   {
     "name": "Immersive Petroleum",
     "id": "0760a150-1270-411f-b71b-776707e46bbd",
-    "file": "immersivepetroleum-1.11.2-1.0.7.jar",
+    "file": "immersivepetroleum-1.11.2-1.1.2.jar",
     "side": "Both",
-    "date": "2017-06-25T19:12:36Z",
-    "size": "575.61 KB",
+    "date": "2017-07-26T06:25:31Z",
+    "size": "834.53 KB",
     "requires": [
       {
         "name": "Immersive Engineering",
         "id": "964e8faf-c5fc-4163-82c5-125607edc385"
       }
     ],
-    "link": "https://minecraft.curseforge.com/projects/immersive-petroleum/files/2441462",
-    "linkDownload": "https://minecraft.curseforge.com/projects/immersive-petroleum/files/2441462/download",
+    "link": "https://minecraft.curseforge.com/projects/immersive-petroleum/files/2456135",
+    "linkDownload": "https://minecraft.curseforge.com/projects/immersive-petroleum/files/2456135/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/immersive-petroleum/files",
-    "md5": "9e60daa86ca0f23b0583b14e04631981",
+    "md5": "93358236fdc8cf2396a35969a15bee33",
     "updateMode": "Automatic"
   },
   {
@@ -1077,15 +1077,15 @@
   {
     "name": "Mystical Agriculture",
     "id": "7b0d4ec7-2544-4708-855e-72b1e32c874b",
-    "file": "mysticalagriculture[1.11.2]-1.5.7a.jar",
+    "file": "mysticalagriculture[1.11.2]-1.5.8.jar",
     "side": "Both",
-    "date": "2017-07-07T20:12:45Z",
-    "size": "1.21 MB",
+    "date": "2017-07-22T22:16:40Z",
+    "size": "1.23 MB",
     "requires": [],
-    "link": "https://minecraft.curseforge.com/projects/mystical-agriculture/files/2447260",
-    "linkDownload": "https://minecraft.curseforge.com/projects/mystical-agriculture/files/2447260/download",
+    "link": "https://minecraft.curseforge.com/projects/mystical-agriculture/files/2454693",
+    "linkDownload": "https://minecraft.curseforge.com/projects/mystical-agriculture/files/2454693/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/mystical-agriculture/files",
-    "md5": "a3ff2b72015990bc90ce5dff1e736388",
+    "md5": "1a94b5cd228048a303eb58ae4a9bd52f",
     "updateMode": "Automatic"
   },
   {
@@ -1511,9 +1511,9 @@
   {
     "name": "Silent's Gems",
     "id": "780d8bfe-0d20-4962-9c33-81f7820f62af",
-    "file": "SilentsGems-1.12-2.4.2-206.jar",
+    "file": "SilentsGems-1.12-2.4.3b-209.jar",
     "side": "Both",
-    "date": "2017-07-10T00:23:59Z",
+    "date": "2017-07-24T16:18:09Z",
     "size": "2.58 MB",
     "requires": [
       {
@@ -1521,10 +1521,10 @@
         "id": "5a2db71b-7f18-4f40-822c-1e5e8307cc66"
       }
     ],
-    "link": "https://minecraft.curseforge.com/projects/silents-gems/files/2448303",
-    "linkDownload": "https://minecraft.curseforge.com/projects/silents-gems/files/2448303/download",
+    "link": "https://minecraft.curseforge.com/projects/silents-gems/files/2455416",
+    "linkDownload": "https://minecraft.curseforge.com/projects/silents-gems/files/2455416/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/silents-gems/files",
-    "md5": "65e63874d1c7ea6371d711a8e65c9c2b",
+    "md5": "5cc911884b83e572ea800420ca9beaaf",
     "updateMode": "Automatic"
   },
   {
@@ -1768,9 +1768,9 @@
   {
     "name": "Thermal Expansion",
     "id": "714b08bf-0ccf-4472-86a0-93cdd9c5a24a",
-    "file": "ThermalExpansion-1.11.2-5.2.6.21-universal.jar",
+    "file": "ThermalExpansion-1.11.2-5.2.6.22-universal.jar",
     "side": "Both",
-    "date": "2017-07-19T19:25:48Z",
+    "date": "2017-07-21T20:19:36Z",
     "size": "1.68 MB",
     "requires": [
       {
@@ -1786,10 +1786,10 @@
         "id": "f08abd82-dfc8-4845-b789-c63bf9c7a1cc"
       }
     ],
-    "link": "https://minecraft.curseforge.com/projects/thermalexpansion/files/2453224",
-    "linkDownload": "https://minecraft.curseforge.com/projects/thermalexpansion/files/2453224/download",
+    "link": "https://minecraft.curseforge.com/projects/thermalexpansion/files/2454136",
+    "linkDownload": "https://minecraft.curseforge.com/projects/thermalexpansion/files/2454136/download",
     "linkFiles": "https://minecraft.curseforge.com/projects/thermalexpansion/files",
-    "md5": "d35c56836473e457cff8c16a6e3cecaf",
+    "md5": "fc1fb91077424513e2ba51f8abc6d785",
     "updateMode": "Automatic"
   },
   {
