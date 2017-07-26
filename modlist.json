@@ -506,25 +506,6 @@
     "updateMode": "Automatic"
   },
   {
-    "name": "Dark Utilities",
-    "id": "848b1520-9ac5-4e7c-b305-f033928508c7",
-    "file": "DarkUtilities-1.11.2-1.2.0.147.jar",
-    "side": "Both",
-    "date": "2017-06-21T02:56:25Z",
-    "size": "342.05 KB",
-    "requires": [
-      {
-        "name": "Bookshelf",
-        "id": "7ae5b3fe-8704-4162-ac34-afb88aae3fb9"
-      }
-    ],
-    "link": "https://minecraft.curseforge.com/projects/dark-utilities/files/2438869",
-    "linkDownload": "https://minecraft.curseforge.com/projects/dark-utilities/files/2438869/download",
-    "linkFiles": "https://minecraft.curseforge.com/projects/dark-utilities/files",
-    "md5": "967b51e5035a9299dd039713e7856c21",
-    "updateMode": "Automatic"
-  },
-  {
     "name": "Deep Resonance",
     "id": "fec0fcde-a2df-42d6-b395-388ca9d01ef5",
     "file": "deepresonance-1.1x-1.4.8.jar",
