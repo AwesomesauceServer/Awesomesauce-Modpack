@@ -1528,29 +1528,6 @@
     "updateMode": "Automatic"
   },
   {
-    "name": "Silent's Gems: Extra Parts",
-    "id": "a83d7f86-0e61-4c65-97ef-803e0b029a8b",
-    "file": "SGExtraParts-1.12-1.3.1-25.jar",
-    "side": "Both",
-    "date": "2017-07-10T00:26:28Z",
-    "size": "92.46 KB",
-    "requires": [
-      {
-        "name": "Silent Lib",
-        "id": "5a2db71b-7f18-4f40-822c-1e5e8307cc66"
-      },
-      {
-        "name": "Silent's Gems",
-        "id": "780d8bfe-0d20-4962-9c33-81f7820f62af"
-      }
-    ],
-    "link": "https://minecraft.curseforge.com/projects/silents-gems-extra-parts/files/2448304",
-    "linkDownload": "https://minecraft.curseforge.com/projects/silents-gems-extra-parts/files/2448304/download",
-    "linkFiles": "https://minecraft.curseforge.com/projects/silents-gems-extra-parts/files",
-    "md5": "79a9873db24705f8e5508f6059677d2a",
-    "updateMode": "Automatic"
-  },
-  {
     "name": "Simple Magnet",
     "id": "397c4907-08a6-4298-9a2b-67b8f1ade748",
     "file": "simplemagnet-1.11.2-1.2.4.jar",
