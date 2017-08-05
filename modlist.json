@@ -281,20 +281,6 @@
     "updateMode": "Automatic"
   },
   {
-    "name": "Blocklings",
-    "id": "c613b8f9-600e-42d4-8de7-95c28d100a12",
-    "file": "Blocklings 4.1.11 - 1.11.2.jar",
-    "side": "Both",
-    "date": "2017-06-17T14:01:32Z",
-    "size": "293.63 KB",
-    "requires": [],
-    "link": "https://minecraft.curseforge.com/projects/blocklings/files/2435613",
-    "linkDownload": "https://minecraft.curseforge.com/projects/blocklings/files/2435613/download",
-    "linkFiles": "https://minecraft.curseforge.com/projects/blocklings/files",
-    "md5": "c84f339754d82c0523c1ab96975c5b51",
-    "updateMode": "Automatic"
-  },
-  {
     "name": "Bookshelf",
     "id": "7ae5b3fe-8704-4162-ac34-afb88aae3fb9",
     "file": "Bookshelf-1.11.2-2.0.0.388.jar",
